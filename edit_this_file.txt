@@ -1,6 +1,7 @@
 class ChangedName
   def initialize(name)
     @name = name.capitalize
+	another change in feature
   end
   # working here
   def say_hi
