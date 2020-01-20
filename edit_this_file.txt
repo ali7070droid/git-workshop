@@ -1,4 +1,4 @@
-class HelloWorld
+class ChangedName
   def initialize(name)
     @name = name.capitalize
   end
